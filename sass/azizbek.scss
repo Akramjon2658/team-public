@@ -1,7 +1,4 @@
-ul{
-    transform: skewY(-15deg);
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
 }
-ul:hover{
-    background-color: #464242;
-}
-
